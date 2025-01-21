@@ -93,7 +93,7 @@ public class Game {
 	}
 
 	public void setScore(Double score) {
-		score = score;
+		this.score = score;
 	}
 
 	public String getImgUrl() {
